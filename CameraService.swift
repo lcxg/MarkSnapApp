@@ -4,7 +4,7 @@
 //
 //  Created by 徐梦超 on 2025/11/27.
 //
-import Foundation // 基础库
+import Foundation // 基础库1
 import UIKit // 基础 UI 元素，供 AVFoundation 使用
 import Combine // 【关键修正】引入 Combine 框架，以便识别 @Published
 import AVFoundation
